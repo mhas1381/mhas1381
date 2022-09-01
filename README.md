@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Hussein Asnavandi</h1>
-<h3 align="center">Software Engineerier and Web developer</h3>
-<p align="left">I am now studying in KHU University </p>
+<h3 align="center">Software Engineerier and Djnago developer</h3>
+<p align="left">I am now studying in KHU University and learning Djnago for Backend development </p>
 <!--
 **mhas1381/mhas1381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
