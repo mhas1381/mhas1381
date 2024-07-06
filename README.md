@@ -19,8 +19,8 @@ Hello! I'm Mohammad Hussein Asnavandi, a Computer Engineering student at Kharazm
 ## Projects
 
 - **Hive:**
-- Implemnting charity System
-- Email Authentication
+  - Implemnting charity System
+  - Email Authentication
 
 
 - **CI/CD Automation:**
