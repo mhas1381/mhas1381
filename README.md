@@ -7,10 +7,25 @@ Hello! I'm Mohammad Hussein Asnavandi, a Computer Engineering student at Kharazm
 - **Programming:**
   - Python
   - Django
+  - Setup Django Model for a Blog and AbstractBaseUser
+  - Implement Class Based Views
+  - Django RestFramework and Serializers (FBV)
+  - ClassBasedViews in RestFramework (views,generic,viewset)
+  - Api Documentation with swagger and redoc
+  - Authentication API (Token/JWT)
+  - Reformat and Lint (flake8,black)
+  - Django TestCase and PyTest
+  - Django CI with github actions
+  - Populate Database with Faker and Django Commands
+  - Cores Headers
+  - Load Testing with Locust
+  - Use postgres sql as a database
+  - Use google smtp server
 
 - **DevOps:**
   - Docker
   - CI/CD
+  - Get ready for deploy (gunicorn/nginx)
 
 - **Version Control:**
   - Git
