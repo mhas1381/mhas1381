@@ -19,6 +19,8 @@ Hello! I'm Mohammad Hussein Asnavandi, a Computer Engineering student at Kharazm
 
 ## Projects
 
+- **Hive:**
+- Implemnting charity System
 
 
 - **CI/CD Automation:**
@@ -27,7 +29,7 @@ Hello! I'm Mohammad Hussein Asnavandi, a Computer Engineering student at Kharazm
 
 ## Work Experience
 
-- **Internship at [Iran Sign]:**
+- **Internship at Iran Sign:**
   - Collaborated on the development and maintenance of Django-based software.
   - Improved DevOps processes and utilized Docker to enhance development and deployment.
 
