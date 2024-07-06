@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohammad Hussein Asnavandi</h1>
-# About Me
 
 Hello! I'm Mohammad Hussein Asnavandi, a Computer Engineering student at Kharazmi University. I have a passion for programming and new technologies, with experience working with the Django framework, Python, DevOps, Docker, and GitHub. My goal is to expand my skills and become a professional developer.
 
