@@ -1,17 +1,48 @@
 <h1 align="center">Hi 👋, I'm Mohammad Hussein Asnavandi</h1>
-<h3 align="center">Software Engineerier and Djnago developer</h3>
-<p align="left">I am now studying in KHU University and learning Djnago for Backend development </p>
-<!--
-**mhas1381/mhas1381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+Hello! I'm Mohammad Hussein Asnavandi, a Computer Engineering student at Kharazmi University. I have a passion for programming and new technologies, with experience working with the Django framework, Python, DevOps, Docker, and GitHub. My goal is to expand my skills and become a professional developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming:**
+  - Python
+  - Django
+
+- **DevOps:**
+  - Docker
+  - CI/CD
+
+- **Version Control:**
+  - Git
+  - GitHub
+
+## Projects
+
+
+
+- **CI/CD Automation:**
+  - Created a CI/CD pipeline for Python and Django projects using GitHub Actions.
+  - Automated testing, building, and deployment processes.
+
+## Work Experience
+
+- **Internship at [Iran Sign]:**
+  - Collaborated on the development and maintenance of Django-based software.
+  - Improved DevOps processes and utilized Docker to enhance development and deployment.
+
+## Education
+
+- **Kharazmi University:**
+  - Bachelor's in Computer Engineering in Kharazmi University
+
+## Interests
+
+- Web Development
+- Backend development
+- Optimizing DevOps Processes
+
+## Contact Me
+
+- **Email:** mhas.software@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/mohammad-hussein-asnavandi-6b4847207/
